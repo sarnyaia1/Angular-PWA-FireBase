@@ -1,1 +1,1 @@
-This is a simple Angular project updated to a progressive web application, and hosted on Firebase.
+This is a simple Angular project updated to a progressive web application, and hosted by Firebase.
